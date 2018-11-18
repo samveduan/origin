@@ -10,3 +10,5 @@ this branch is ali
 
 this branch is wechat
 
+no password commit
+
